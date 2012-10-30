@@ -1,12 +1,12 @@
-# revision 22462
+# revision 27895
 # category Package
 # catalog-ctan /macros/latex/contrib/tugboat
-# catalog-date 2011-05-13 02:06:40 +0200
+# catalog-date 2012-09-30 15:50:42 +0200
 # catalog-license lppl
-# catalog-version 2.8
+# catalog-version 2.11
 Name:		texlive-tugboat
-Version:	2.8
-Release:	2
+Version:	2.11
+Release:	1
 Summary:	LaTeX macros for TUGboat articles
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tugboat
