@@ -6,7 +6,7 @@
 # catalog-version 2.13
 Name:		texlive-tugboat
 Version:	2.13
-Release:	4
+Release:	5
 Summary:	LaTeX macros for TUGboat articles
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tugboat
