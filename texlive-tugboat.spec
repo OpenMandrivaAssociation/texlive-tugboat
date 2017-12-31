@@ -5,8 +5,8 @@
 # catalog-license lppl
 # catalog-version 2.14
 Name:		texlive-tugboat
-Version:	2.14
-Release:	5
+Version:	2.19
+Release:	1
 Summary:	LaTeX macros for TUGboat articles
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tugboat
