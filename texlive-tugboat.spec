@@ -1,6 +1,6 @@
 Name:		texlive-tugboat
-Version:	63386
-Release:	2
+Version:	67549
+Release:	1
 Summary:	LaTeX macros for TUGboat articles
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tugboat
