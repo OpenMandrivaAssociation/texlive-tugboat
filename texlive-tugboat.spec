@@ -1,5 +1,5 @@
 Name:		texlive-tugboat
-Version:	68694
+Version:	70959
 Release:	1
 Summary:	LaTeX macros for TUGboat articles
 Group:		Publishing
